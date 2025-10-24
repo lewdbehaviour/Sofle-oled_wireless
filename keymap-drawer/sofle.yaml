@@ -75,36 +75,34 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - LOCK
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - INS
-  - PSCRN
-  - CMENU
+  - UP ARROW
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - PG UP
   - {t: ▽, type: trans}
   - UP
   - {t: ▽, type: trans}
-  - '0'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - LALT
-  - LCTRL
-  - LSHFT
   - {t: ▽, type: trans}
-  - CLCK
+  - LEFT ARROW
+  - DOWN
+  - RIGHT
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - PG DN
   - LEFT
   - DOWN
   - RIGHT
-  - DEL
-  - BSPC
   - {t: ▽, type: trans}
-  - UNDO
-  - CUT
-  - COPY
-  - PASTE
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - '&msc SCRL_RIGHT'
+  - '&msc SCRL_LEFT'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -112,6 +110,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - '&msc SCRL_RIGHT'
+  - '&msc SCRL_LEFT'
   - {t: ▽, type: trans}
   - {type: held}
   - {t: ▽, type: trans}
