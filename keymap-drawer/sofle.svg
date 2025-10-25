@@ -379,6 +379,13 @@ path.combo {
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
 <text x="0" y="0" class="key tap">=</text>
 </g>
+<g class="combo combopos-0">
+<path d="M448,203 l-401,-27" class="combo"/>
+<path d="M448,203 l401,27" class="combo"/>
+<rect rx="6" ry="6" x="434" y="190" width="28" height="26" class="combo"/>
+<a href="#adjust">
+<text x="448" y="203" class="combo tap layer-activator">adjust</text>
+</a></g>
 </g>
 </g>
 <g transform="translate(30, 398)" class="layer-lower">
@@ -591,9 +598,7 @@ path.combo {
 </g>
 <g transform="translate(868, 231)" class="key keypos-49">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<a href="#adjust">
-<text x="0" y="0" class="key tap layer-activator">adjust</text>
-</a></g>
+</g>
 <g transform="translate(140, 259)" class="key trans keypos-50">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key trans"/>
 <text x="0" y="0" class="key trans tap">▽</text>
@@ -634,6 +639,13 @@ path.combo {
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key trans"/>
 <text x="0" y="0" class="key trans tap">▽</text>
 </g>
+<g class="combo combopos-0">
+<path d="M448,203 l-401,-27" class="combo"/>
+<path d="M448,203 l401,27" class="combo"/>
+<rect rx="6" ry="6" x="434" y="190" width="28" height="26" class="combo"/>
+<a href="#adjust">
+<text x="448" y="203" class="combo tap layer-activator">adjust</text>
+</a></g>
 </g>
 </g>
 <g transform="translate(30, 795)" class="layer-raise">
@@ -901,6 +913,13 @@ path.combo {
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key trans"/>
 <text x="0" y="0" class="key trans tap">▽</text>
 </g>
+<g class="combo combopos-0">
+<path d="M448,203 l-401,-27" class="combo"/>
+<path d="M448,203 l401,27" class="combo"/>
+<rect rx="6" ry="6" x="434" y="190" width="28" height="26" class="combo"/>
+<a href="#adjust">
+<text x="448" y="203" class="combo tap layer-activator">adjust</text>
+</a></g>
 </g>
 </g>
 <g transform="translate(30, 1193)" class="layer-adjust">
@@ -1127,6 +1146,13 @@ path.combo {
 <g transform="translate(756, 259)" class="key keypos-59">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
 </g>
+<g class="combo combopos-0">
+<path d="M448,203 l-401,-27" class="combo"/>
+<path d="M448,203 l401,27" class="combo"/>
+<rect rx="6" ry="6" x="434" y="190" width="28" height="26" class="combo"/>
+<a href="#adjust">
+<text x="448" y="203" class="combo tap layer-activator">adjust</text>
+</a></g>
 </g>
 </g>
 </svg>
