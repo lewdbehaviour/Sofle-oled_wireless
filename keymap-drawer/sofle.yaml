@@ -64,18 +64,18 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   raise:
-  - BT CLR
-  - {t: BT, h: '0'}
-  - {t: BT, h: '1'}
-  - {t: BT, h: '2'}
-  - {t: BT, h: '3'}
-  - {t: BT, h: '4'}
+  - F11
+  - F11
+  - F12
+  - F13
+  - F14
+  - F15
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - Gui+Ctl+L
+  - Gui+Ctl+Q
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - UP ARROW
@@ -101,8 +101,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - '&msc SCRL_RIGHT'
-  - '&msc SCRL_LEFT'
+  - '&msc MOVE_X(15)'
+  - '&msc MOVE_X(-15)'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
